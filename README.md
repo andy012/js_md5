@@ -20,5 +20,5 @@ cumputing big file's & text's MD5 with javascript
 ---
   [3]: https://github.com/andy012/js_mad5/blob/master/screenshot_text_md5.png?raw=true
 
-
+### By andydoo
 ref：http://www.zhuwenlong.com/blog/52d6769f93dcae3050000003
