@@ -7,7 +7,7 @@ javascript md5 with sparkmd5,suporting text and big file.(基于js的md5计算�
 ---
 
 ![文件md5计算截屏][1]
-选择文件，支持大文件，计算结果在显示在文本框
+选择文件，支持大文件，采取按块读取，计算结果在显示在文本框
 
   [1]: https://github.com/andy012/js_mad5/blob/master/Screenshot_file_md5.png?raw=true
 --- 
